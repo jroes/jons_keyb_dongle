@@ -1,0 +1,2 @@
+config SHIELD_JONS_KEYB_DONGLE
+    def_bool $(shields_list_contains,jons_keyb_dongle)
