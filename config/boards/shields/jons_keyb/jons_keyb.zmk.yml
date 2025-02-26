@@ -6,6 +6,5 @@ url: https://github.com/jroes/jons_keyb_dongle
 requires: [seeed_xiao]
 features:
   - keys
-  - studio
 siblings:
   - jons_keyb_dongle
