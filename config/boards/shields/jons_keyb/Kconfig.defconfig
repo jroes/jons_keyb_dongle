@@ -2,7 +2,7 @@ if SHIELD_JONS_KEYB
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
-    default "Jons Keyb Dongle"
+    default "Jons Keyb"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
